@@ -36,8 +36,8 @@ main {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  margin-top: 35px;
-  min-height: calc(100vh - 70px);
+  margin-top: 70px;
+  min-height: calc(100vh - 105px);
 }
 .container {
   display: -webkit-box;
