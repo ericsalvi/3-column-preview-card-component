@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/3column-preview-card-htmlcss-using-rem-units-flexbox-and-variables-CMoDUd7Ad)
+- Live Site URL: [https://ericsalvi.github.io/3-column-preview-card-component/](https://ericsalvi.github.io/3-column-preview-card-component/)
 
 ## My process
 
